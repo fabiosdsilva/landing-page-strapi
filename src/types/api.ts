@@ -60,7 +60,7 @@ export type SectionConceptsProps = {
 
 export type SectionModulesProps = {
   title: string
-  modules:
+  modules: Modules[]
 }
 
 export type SectionAgendaProps = {
